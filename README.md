@@ -29,11 +29,7 @@ The Cosmic Cycle project involves the design, analysis, and optimization of an e
 - **ANSYS**: For performing structural analysis and stress testing. Ensure you have a compatible version installed.
 - **MATLAB/Simulink**: For battery and motor calculations. Ensure you have MATLAB and Simulink installed.
 
-### How to View the Design
 
-1. Open SolidWorks.
-2. Load the design files from the `SolidWorks_Design/` directory.
-3. Use SolidWorks tools to view, modify, and analyze the design.
 
 ### How to Run Structural Analysis
 
@@ -52,14 +48,6 @@ The Cosmic Cycle project involves the design, analysis, and optimization of an e
 3. Review and modify the scripts to fit the specifications of your electric bicycle.
 4. Run the simulations to calculate battery capacity and motor performance.
 
-## Contributing
-
-If you would like to contribute to this project, please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes and commit (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Create a new Pull Request.
 
 ## Acknowledgements
 
